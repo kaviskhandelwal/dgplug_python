@@ -18,4 +18,4 @@ def tweet_pic():
 	except:
 		print "Authentication Failed"	
 if __name__=='__main__':
-	main()
+	tweet_pic()
